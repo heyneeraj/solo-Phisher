@@ -45,3 +45,11 @@ This is a **Flask-based Cybersecurity Awareness Web Application** designed for:
 ---
 
 ## ⚙️ Installation (Local Setup)
+git clone https://github.com/heyneeraj/solo-Phisher.git
+ls
+cd solo-phsiher
+ls
+cd solo-phsiher
+ls
+python3 solo.py
+
